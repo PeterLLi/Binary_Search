@@ -1,0 +1,12 @@
+/Users/peterli/Documents/Projects/Binary_Search/Binary_Search/bin/Debug/Binary_Search.exe
+/Users/peterli/Documents/Projects/Binary_Search/Binary_Search/bin/Debug/Binary_Search.pdb
+/Users/peterli/Documents/Projects/Binary_Search/Binary_Search/obj/x86/Debug/Binary_Search.csprojResolveAssemblyReference.cache
+/Users/peterli/Documents/Projects/Binary_Search/Binary_Search/obj/x86/Debug/Binary_Search.csproj.CoreCompileInputs.cache
+/Users/peterli/Documents/Projects/Binary_Search/Binary_Search/obj/x86/Debug/Binary_Search.exe
+/Users/peterli/Documents/Projects/Binary_Search/Binary_Search/obj/x86/Debug/Binary_Search.pdb
+/Users/peterli/Documents/Dev Code Camp/Projects/Binary_Search/Binary_Search/obj/x86/Debug/Binary_Search.csprojResolveAssemblyReference.cache
+/Users/peterli/Documents/Dev Code Camp/Projects/Binary_Search/Binary_Search/obj/x86/Debug/Binary_Search.csproj.CoreCompileInputs.cache
+/Users/peterli/Documents/Dev Code Camp/Projects/Binary_Search/Binary_Search/obj/x86/Debug/Binary_Search.exe
+/Users/peterli/Documents/Dev Code Camp/Projects/Binary_Search/Binary_Search/obj/x86/Debug/Binary_Search.pdb
+/Users/peterli/Documents/Dev Code Camp/Projects/Binary_Search/Binary_Search/bin/Debug/Binary_Search.exe
+/Users/peterli/Documents/Dev Code Camp/Projects/Binary_Search/Binary_Search/bin/Debug/Binary_Search.pdb
